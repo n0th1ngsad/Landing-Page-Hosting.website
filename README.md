@@ -2,9 +2,11 @@
 Responsive Landing Page Hosting Website Using HTML, CSS &amp; JavaScript
 
 ---
-> DEPLOY (IF U WANT TO SEE THE WEBSITE) : </br>
+> HOW TO DEPLOY ON VSCODE : </br>
 ```
-https://n0th1ngsad.github.io/Landing-Page-Hosting.website/
+1. Install Liveserver extention
+2. Right click on index.html and run live server
+3. Done
 ```
 - Support Responsive Website
 - Interactive Elements
