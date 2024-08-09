@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden; 
+}
+
+.bg-gradient-primary {
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+}
+
+.bg-animated {
+    background-size: 400% 400%;
+    animation: gradientAnimation 10s ease infinite; 
+}
+
+@keyframes gradientAnimation {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+.parallax {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
