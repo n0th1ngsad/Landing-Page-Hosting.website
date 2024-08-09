@@ -6,3 +6,10 @@ Responsive Landing Page Hosting Website Using HTML, CSS &amp; JavaScript
 ```
 https://n0th1ngsad.github.io/Landing-Page-Hosting.website/
 ```
+- Support Responsive Website
+- Interactive Elements
+- Color Gradient
+- Scroll-triggered Animations
+- Parallax Scrolling
+
+# DON'T FORGET TO STAR THIS REPOS :)
