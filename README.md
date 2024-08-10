@@ -13,6 +13,6 @@ Responsive Landing Page Hosting Website Using HTML, CSS &amp; JavaScript
 - Color Gradient
 - Scroll-triggered Animations
 - Parallax Scrolling
-- Use Tailwind CSS, Swiper JS, GSAP, ScrollReveal JS 
+- Use Tailwind CSS, DaisyUI, Swiper JS, GSAP, ScrollReveal JS 
 
 # DON'T FORGET TO STAR THIS REPOS :)
